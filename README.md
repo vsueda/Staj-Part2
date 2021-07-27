@@ -1,5 +1,5 @@
 # Staj-Part2
-Deste Dağıtımı:
+Deste Dağıtımı(destedagitimi):
 7. Sıralı 1 Deste kağıdı (52 kağıt) 4 oyuncuya rastgele dağıtacak. Sonra her oyuncudaki kağıtları dizecek. ve bu her oyuncunun kağıtlarını ekranda gösterecek. 
 Her kağıt simge tipi kendi içinde sıralanacak
 
@@ -30,7 +30,7 @@ Masa
 
 
 
-Park İşlemleri:
+Park İşlemleri (GarajPark):
 
 
 Uygulama başlayınca kullanıcıdan garajın kapasitesi istenecek: 5 ile 50 arası bir değer alınacak. Kullanıcı 5-50 arası değer girinceye kadar uygulama başlamayacak.
